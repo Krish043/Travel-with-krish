@@ -45,7 +45,7 @@ It’s a static front-end project — no backend setup needed.
 - Integrate maps or Google Places API
 - Enhance animations with scroll effects
 ---
-## Created with ✈️ by Krrish Gangajaliya
+## Created with ✈️ by Krish Gangajaliya
 
 📧 Email: krishgangajaliya1@gmail.com
 
